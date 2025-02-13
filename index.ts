@@ -1,6 +1,5 @@
 const minimist = require('minimist');
-const { PelisController } = require('./controller');
-
+import { PelisController } from './controllers';
 
 const argv = minimist(process.argv.slice(2));
 

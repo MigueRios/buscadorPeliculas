@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/jsonfile": "^6.1.4",
+    "@types/minimist": "^1.2.5",
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.8"
+  }
+}
